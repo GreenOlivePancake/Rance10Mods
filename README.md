@@ -8,11 +8,16 @@ Suggest you to make backup of Rance10.ain and Rance10CGmod.afa files for just in
 
 
 
-**************************************************
+-----------------------------------------
+
+
+
 Not able to upload mod in git anymore for storage issue.
+
 Please download latest mod on MEGA (https://mega.nz/folder/k6MSiZiD#NFa4S6mC4A8cLUgAQqxflQ) instead of git.
+
 Sorry for inconvenience.
-**************************************************
+
 
 
 -----------------------------------------
